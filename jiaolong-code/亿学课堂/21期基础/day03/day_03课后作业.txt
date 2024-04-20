@@ -1,0 +1,2 @@
+day_03作业:# 请用2种方式输出这一段话:
+# 他对我说:'Python资料在我电脑D:\Python\theOne\two\new\basic的文件夹里面.' # (输出显示引号)
